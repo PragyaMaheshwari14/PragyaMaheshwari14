@@ -76,5 +76,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragyamaheshwari14&theme=nightowl" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=pragyamaheshwari14&theme=nightowl" alt="GitHub Streak"/>
 </p>
