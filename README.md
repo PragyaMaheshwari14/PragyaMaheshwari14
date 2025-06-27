@@ -1,4 +1,4 @@
-make this clean and interactive . take a proper section in the language:[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pragya Maheshwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/361449d715330d0cc1a1af6d72ed8be6744d8c3d9719a8b76836714194e3e419/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966">
@@ -23,7 +23,3 @@ make this clean and interactive . take a proper section in the language:[![Maste
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragyamaheshwari14&show_icons=true&locale=en" alt="pragyamaheshwari14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragyamaheshwari14&" alt="pragyamaheshwari14" /></p>
-Here's a cleaner, more interactive version of your GitHub README with proper sections and improved formatting:
-
-markdown
-[!
