@@ -1,10 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Pragya Maheshwari</h1>
-<h3 align="center">
-  🚀 Turning ideas into interactive experiences • 🌱 Forever curious, always learning • 💡 Building the web one pixel at a time!
-</h3>
-
+<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
 ---
 
