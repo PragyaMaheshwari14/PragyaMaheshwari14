@@ -74,4 +74,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pragyamaheshwari14&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PragyaMaheshwari14&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
 
